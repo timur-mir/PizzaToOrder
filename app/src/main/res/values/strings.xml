@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Пицца на заказ</string>
+
+    <string name="place_order_button">Заказать (%1$s)</string>
+    <string name="placement_prompt">В какую область пиццы добавить %1$s ?</string>
+
+    <string name="placement_none">Исключить</string>
+    <string name="placement_left">Левая половина</string>
+    <string name="placement_right">Правая половина</string>
+    <string name="placement_all">Вся область пиццы</string>
+    <string name="order_placed_toast">Ваш заказ в пути!</string>
+    <string name="topping_basil">Базилик</string>
+    <string name="topping_mushroom">Грибы</string>
+    <string name="topping_olive">Оливки</string>
+    <string name="topping_peppers">Перцы</string>
+    <string name="topping_pepperoni">Пеперони</string>
+    <string name="topping_pineapple">Ананасы</string>
+
+    <string name="pizza_size_small">Обычная</string>
+    <string name="pizza_size_medium">Средняя</string>
+    <string name="pizza_size_large">Большая</string>
+    <string name="pizza_size_extra_large">Громадная</string>
+
+    <string name="pizza_size_selection_label">%s ($%.2f)</string>
+
+    <string name="pizza_preview">Pizza preview</string>
+</resources>

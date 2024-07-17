@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_mushroom.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_mushroom.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_peppers.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_peppers.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_pepperoni.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_pepperoni.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_olive.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_olive.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_pizza_crust.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/pizza_crust.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_pineapple.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_pineapple.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "home.howework.codapizza.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/drawable_topping_basil.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/drawable/topping_basil.webp"
+    },
+    {
+        "merged": "home.howework.codapizza.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "home.howework.codapizza.app-main-57:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]

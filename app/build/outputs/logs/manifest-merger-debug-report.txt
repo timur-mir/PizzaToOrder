@@ -1,0 +1,395 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ad223119698cb296e83289f9ee63cd39\transformed\activity-compose-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\94e4e6047ab8370d9656437cf4dfaae5\transformed\material3-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2d3ba2b20b4143dee3bcf044cbf3b2eb\transformed\material-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb512c9478396b8fbbbe90a48373d38c\transformed\material-ripple-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a745b218b36a2f5c1fea940712ad8662\transformed\foundation-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e701cf9f27cccb18306fa022a47c0873\transformed\animation-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3c3d77dc184713eb1af6f549a9341647\transformed\foundation-layout-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\26143bb97606dbfde6edf8119ad9fe52\transformed\animation-core-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\d19def02e7ec0b6c55fcf215b9d587a0\transformed\material-icons-core-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\09431f9d351e9210a3e656e68e3649a4\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ed689807292b8ee87694d853ecbb6a18\transformed\ui-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-text:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\77e65e890e616bdac0f9afd6b8bdb2ae\transformed\ui-text-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\5214be842945aa4237bf5705997ca31d\transformed\ui-graphics-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3366e615c8d959ccb91dc3901de02a7a\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bfe95470f780089b4f7e9fa1700817a7\transformed\runtime-saveable-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\33d10aa5404002849ff327ef5f00efa9\transformed\ui-unit-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f317c0e725cf84578ba3b27dc2248d1\transformed\ui-geometry-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1bda5e1a1e993a8ad5aba1d8f36f1015\transformed\runtime-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e17d50e4ed717adf1ceff70bb40bdd7a\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\daca4de4500e6b07f0b154db59e03d3b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1d099126ea12b0a64cf5bb4dd240c604\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1863ac33a918a53d8aa9794769dfa1b6\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\657fff41e6047a5bbc21ed18aa5c8881\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bca789585dafa68d31beeb40cc21091e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e25cb1e102b4397a239332adef5b477a\transformed\activity-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\05c1a8bfc7e38b21099737c2251638e2\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\da919af28062ea96f59ebd57538c5a22\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\57d08d25ea4a66780066026d20e7508b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de88bc6a37be84fc245f925f7fc8aced\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6421f4bd45ade107931ee59f8fb7b853\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\66e69432839766cd03da59c568bcd974\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73fcc08d2c2b71c001bfdfbe5be8cf33\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b9d396d71f2fae5943e75ea46116959b\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a7e0e932804d5fca687412a462f082a0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6f5af6c929fce2a13ffd4ad14f91aac6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f1159783bc87e30150fff8e7bbc4672\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4ea76dc3d810e415709b84d5e526a56c\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de9ba264ec9167ce5c25e023c393b39c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\920c2f23ab0b7d062aae0adaf7034225\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb83585892ccc010d212449f2cc71be3\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f647f2f97779e23ce79f6241a85ac0d3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\62ff32115f8f0aaba18edd1fc629c471\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3036ba1951aa3e58ed41ba57fbcc1de3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\795a01a429a6d0ef422ea8e194802e87\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\32e91e70a79b3a35bd512954c9351354\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\189d8f3b1c35d4096d80c5305c8436d6\transformed\ui-util-1.3.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3d86850be2a5b61745a6e77bf55f3413\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\654c078047159cf114b3d628a440b8ac\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73041516c793e1aacb2646c5df9c89ef\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\574067a5b4f58c720f129616c6cb1634\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\27855b8617f634a5a68c1939ea3c2f75\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\dafe9fc853dbb271aaf1ebfed836969e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\193ab9ab44194d940e402010fa96ee55\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\fe4f67c7d06f8168c90964411a7d059f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2b2417b6884e27a5522690d5f455da53\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f7bdd6e6f063d1f50e71a7c56c1250a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2a16975547302762df0b7425006d0b51\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\51a9c0d1f6c0f2aee8ad273ae00fa0e8\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\592d30224bdb8d113ef65f1658a708ae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f899d5bdeb08c62aef8b14a8dd2a17f5\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ae7fa2f8324ab7e62fc47dc36ef0d8b4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e17d50e4ed717adf1ceff70bb40bdd7a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e17d50e4ed717adf1ceff70bb40bdd7a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1d099126ea12b0a64cf5bb4dd240c604\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1d099126ea12b0a64cf5bb4dd240c604\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\fe4f67c7d06f8168c90964411a7d059f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\fe4f67c7d06f8168c90964411a7d059f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:13:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:7:9-65
+activity#home.howework.codapizza.MainActivity
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ad223119698cb296e83289f9ee63cd39\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ad223119698cb296e83289f9ee63cd39\transformed\activity-compose-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\94e4e6047ab8370d9656437cf4dfaae5\transformed\material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\94e4e6047ab8370d9656437cf4dfaae5\transformed\material3-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2d3ba2b20b4143dee3bcf044cbf3b2eb\transformed\material-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2d3ba2b20b4143dee3bcf044cbf3b2eb\transformed\material-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb512c9478396b8fbbbe90a48373d38c\transformed\material-ripple-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-ripple:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb512c9478396b8fbbbe90a48373d38c\transformed\material-ripple-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a745b218b36a2f5c1fea940712ad8662\transformed\foundation-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a745b218b36a2f5c1fea940712ad8662\transformed\foundation-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e701cf9f27cccb18306fa022a47c0873\transformed\animation-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e701cf9f27cccb18306fa022a47c0873\transformed\animation-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3c3d77dc184713eb1af6f549a9341647\transformed\foundation-layout-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-layout:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3c3d77dc184713eb1af6f549a9341647\transformed\foundation-layout-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\26143bb97606dbfde6edf8119ad9fe52\transformed\animation-core-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\26143bb97606dbfde6edf8119ad9fe52\transformed\animation-core-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\d19def02e7ec0b6c55fcf215b9d587a0\transformed\material-icons-core-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core:1.3.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\d19def02e7ec0b6c55fcf215b9d587a0\transformed\material-icons-core-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\09431f9d351e9210a3e656e68e3649a4\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\09431f9d351e9210a3e656e68e3649a4\transformed\ui-tooling-data-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ed689807292b8ee87694d853ecbb6a18\transformed\ui-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ed689807292b8ee87694d853ecbb6a18\transformed\ui-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\77e65e890e616bdac0f9afd6b8bdb2ae\transformed\ui-text-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-text:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\77e65e890e616bdac0f9afd6b8bdb2ae\transformed\ui-text-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\5214be842945aa4237bf5705997ca31d\transformed\ui-graphics-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\5214be842945aa4237bf5705997ca31d\transformed\ui-graphics-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3366e615c8d959ccb91dc3901de02a7a\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3366e615c8d959ccb91dc3901de02a7a\transformed\ui-tooling-preview-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bfe95470f780089b4f7e9fa1700817a7\transformed\runtime-saveable-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bfe95470f780089b4f7e9fa1700817a7\transformed\runtime-saveable-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\33d10aa5404002849ff327ef5f00efa9\transformed\ui-unit-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-unit:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\33d10aa5404002849ff327ef5f00efa9\transformed\ui-unit-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f317c0e725cf84578ba3b27dc2248d1\transformed\ui-geometry-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-geometry:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f317c0e725cf84578ba3b27dc2248d1\transformed\ui-geometry-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1bda5e1a1e993a8ad5aba1d8f36f1015\transformed\runtime-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1bda5e1a1e993a8ad5aba1d8f36f1015\transformed\runtime-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e17d50e4ed717adf1ceff70bb40bdd7a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e17d50e4ed717adf1ceff70bb40bdd7a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\daca4de4500e6b07f0b154db59e03d3b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\daca4de4500e6b07f0b154db59e03d3b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1d099126ea12b0a64cf5bb4dd240c604\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1d099126ea12b0a64cf5bb4dd240c604\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1863ac33a918a53d8aa9794769dfa1b6\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1863ac33a918a53d8aa9794769dfa1b6\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\657fff41e6047a5bbc21ed18aa5c8881\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\657fff41e6047a5bbc21ed18aa5c8881\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bca789585dafa68d31beeb40cc21091e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TIMURMIR\.jdks\caches\transforms-3\bca789585dafa68d31beeb40cc21091e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e25cb1e102b4397a239332adef5b477a\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\e25cb1e102b4397a239332adef5b477a\transformed\activity-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\05c1a8bfc7e38b21099737c2251638e2\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\05c1a8bfc7e38b21099737c2251638e2\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\da919af28062ea96f59ebd57538c5a22\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\da919af28062ea96f59ebd57538c5a22\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\57d08d25ea4a66780066026d20e7508b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\57d08d25ea4a66780066026d20e7508b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de88bc6a37be84fc245f925f7fc8aced\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de88bc6a37be84fc245f925f7fc8aced\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6421f4bd45ade107931ee59f8fb7b853\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6421f4bd45ade107931ee59f8fb7b853\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\66e69432839766cd03da59c568bcd974\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\66e69432839766cd03da59c568bcd974\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73fcc08d2c2b71c001bfdfbe5be8cf33\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73fcc08d2c2b71c001bfdfbe5be8cf33\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b9d396d71f2fae5943e75ea46116959b\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b9d396d71f2fae5943e75ea46116959b\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a7e0e932804d5fca687412a462f082a0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\a7e0e932804d5fca687412a462f082a0\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6f5af6c929fce2a13ffd4ad14f91aac6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\6f5af6c929fce2a13ffd4ad14f91aac6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f1159783bc87e30150fff8e7bbc4672\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\1f1159783bc87e30150fff8e7bbc4672\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4ea76dc3d810e415709b84d5e526a56c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4ea76dc3d810e415709b84d5e526a56c\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de9ba264ec9167ce5c25e023c393b39c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\de9ba264ec9167ce5c25e023c393b39c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\920c2f23ab0b7d062aae0adaf7034225\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\920c2f23ab0b7d062aae0adaf7034225\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb83585892ccc010d212449f2cc71be3\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\eb83585892ccc010d212449f2cc71be3\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f647f2f97779e23ce79f6241a85ac0d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f647f2f97779e23ce79f6241a85ac0d3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\62ff32115f8f0aaba18edd1fc629c471\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\62ff32115f8f0aaba18edd1fc629c471\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3036ba1951aa3e58ed41ba57fbcc1de3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3036ba1951aa3e58ed41ba57fbcc1de3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\795a01a429a6d0ef422ea8e194802e87\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\795a01a429a6d0ef422ea8e194802e87\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\32e91e70a79b3a35bd512954c9351354\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\32e91e70a79b3a35bd512954c9351354\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\189d8f3b1c35d4096d80c5305c8436d6\transformed\ui-util-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\189d8f3b1c35d4096d80c5305c8436d6\transformed\ui-util-1.3.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3d86850be2a5b61745a6e77bf55f3413\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\3d86850be2a5b61745a6e77bf55f3413\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\654c078047159cf114b3d628a440b8ac\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\654c078047159cf114b3d628a440b8ac\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73041516c793e1aacb2646c5df9c89ef\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\73041516c793e1aacb2646c5df9c89ef\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\574067a5b4f58c720f129616c6cb1634\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\574067a5b4f58c720f129616c6cb1634\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\27855b8617f634a5a68c1939ea3c2f75\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\27855b8617f634a5a68c1939ea3c2f75\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\dafe9fc853dbb271aaf1ebfed836969e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\dafe9fc853dbb271aaf1ebfed836969e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\193ab9ab44194d940e402010fa96ee55\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\193ab9ab44194d940e402010fa96ee55\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\fe4f67c7d06f8168c90964411a7d059f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\fe4f67c7d06f8168c90964411a7d059f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2b2417b6884e27a5522690d5f455da53\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2b2417b6884e27a5522690d5f455da53\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f7bdd6e6f063d1f50e71a7c56c1250a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f7bdd6e6f063d1f50e71a7c56c1250a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2a16975547302762df0b7425006d0b51\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\2a16975547302762df0b7425006d0b51\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\51a9c0d1f6c0f2aee8ad273ae00fa0e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\51a9c0d1f6c0f2aee8ad273ae00fa0e8\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\592d30224bdb8d113ef65f1658a708ae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\592d30224bdb8d113ef65f1658a708ae\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f899d5bdeb08c62aef8b14a8dd2a17f5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\f899d5bdeb08c62aef8b14a8dd2a17f5\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ae7fa2f8324ab7e62fc47dc36ef0d8b4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\ae7fa2f8324ab7e62fc47dc36ef0d8b4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TIMURMIR\AndroidStudioProjects\CodaPizza\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\096b376498c378d35f804ef72699c852\transformed\ui-tooling-1.3.3\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.3.3] C:\Users\TIMURMIR\.jdks\caches\transforms-3\b09d819c5fe42151082fbb807bab8bc5\transformed\ui-test-manifest-1.3.3\AndroidManifest.xml:24:13-63
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\cb27e93bf0d6a64750a557ec049a12dd\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\7c24505eac546b09fdf6a2d22fc4ec01\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#home.howework.codapizza.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#home.howework.codapizza.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\4763ab71dae7e888903144cd54fd9987\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9d5e5242a45baf6a868a3f9538b07a0a\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] C:\Users\TIMURMIR\.jdks\caches\transforms-3\9db2d431ba4edccb886e6e2812a9da3a\transformed\profileinstaller-1.2.0\AndroidManifest.xml:45:25-82
